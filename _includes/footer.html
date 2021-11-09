@@ -6,29 +6,24 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
+        <br>
+        <br>
         © {{ 'now' | date: "%Y" }}
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
         {% if site.data.locales[lang].copyright.brief %}
-        <span data-toggle="tooltip" data-placement="top"
-          title="{{ site.data.locales[lang].copyright.verbose }}">{{ site.data.locales[lang].copyright.brief }}</span>
+        <span data-toggle="tooltip" data-placement="top" title="{{ site.data.locales[lang].copyright.verbose }}">{{
+          site.data.locales[lang].copyright.brief }}</span>
         {% endif %}
+        <script src="https://tryhackme.com/badge/297102"></script>
       </p>
     </div>
 
     <div class="footer-right">
       <p class="mb-0">
-        {% capture _platform %}
-          <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
-        {% endcapture %}
-
-        {% capture _theme %}
-          <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
-        {% endcapture %}
-
-        {{ site.data.locales[lang].meta
-          | default: 'Powered by :PLATFORM with :THEME theme.'
-          | replace: ':PLATFORM', _platform | replace: ':THEME', _theme
-        }}
+        <script data-name="BMC-Widget" data-cfasync="false"
+          src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="cyb3ak"
+          data-description="Support me on Buy me a coffee!" data-message="" data-color="#5F7FFF" data-position="Right"
+          data-x_margin="18" data-y_margin="18"></script>
 
       </p>
     </div>

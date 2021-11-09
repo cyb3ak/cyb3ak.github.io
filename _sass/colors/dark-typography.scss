@@ -6,7 +6,7 @@
   /* Framework color */
   --body-bg: var(--main-wrapper-bg);
   --mask-bg: rgb(68, 69, 70);
-  --main-wrapper-bg: rgb(27, 27, 30);
+  --main-wrapper-bg: #010409;
   --main-border-color: rgb(44, 45, 45);
   --scrollbar-track-bg: rgba(0, 0, 0, 0.3);
   --scrollbar-thumb-bg: rgb(173 171 171 / 50%);
@@ -30,7 +30,7 @@
   --checkbox-checked-color: var(--link-color);
 
   /* Sidebar */
-  --sidebar-bg: radial-gradient(circle, #242424 0%, #1d1f27 100%);
+  --sidebar-bg: radial-gradient(circle, #0d1117 0%, #010409 100%);
   --sidebar-muted-color: #6d6c6b;
   --sidebar-active-color: rgb(255 255 255 / 80%);
   --nav-cursor-color: rgb(183, 182, 182);
@@ -38,8 +38,8 @@
 
   /* Topbar */
   --topbar-text-color: var(--text-color);
-  --topbar-wrapper-bg: rgb(39, 40, 43);
-  --search-wrapper-bg: rgb(34, 34, 39);
+  --topbar-wrapper-bg: #0d1117;
+  --search-wrapper-bg: #010409;
   --search-wrapper-border-color: rgb(34, 34, 39);
   --search-icon-color: rgb(100, 102, 105);
   --input-focus-border-color: rgb(112, 114, 115);
@@ -50,7 +50,7 @@
   --btn-paginator-hover-color: rgb(64, 65, 66);
   --btn-paginator-border-color: var(--btn-border-color);
   --btn-text-color: var(--text-color);
-  --pin-bg: rgb(34 35 37);
+  --pin-bg: white;
   --pin-color: inherit;
 
   /* Posts */
