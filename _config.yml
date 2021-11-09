@@ -18,7 +18,7 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyb3ak_logs                          # the main title
+title: cyb3ak_logs                          # the main title
 
 tagline: Cybersecurity Simplified   # it will display as the sub-title
 
