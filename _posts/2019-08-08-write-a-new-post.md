@@ -5,6 +5,10 @@ date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
+image:
+  src: \assets\img\posts\Demo\one.jpg
+  width: 800
+  height: 500
 ---
 
 ## Naming and Path
