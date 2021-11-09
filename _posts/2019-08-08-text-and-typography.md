@@ -6,10 +6,7 @@ categories: [Blogging, Demo]
 tags: [typography]
 math: true
 mermaid: true
-image:
-  src: /commons/devices-mockup.png
-  width: 800
-  height: 500
+image: "/assets/img/posts/Demo/two.jpg"
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.

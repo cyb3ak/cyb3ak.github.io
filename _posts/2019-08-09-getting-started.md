@@ -5,10 +5,7 @@ date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
-image:
-  src: \assets\img\posts\Demo\two.jpg
-  width: 800
-  height: 500
+image: "/assets/img/posts/Demo/two.jpg"
 ---
 
 ## Prerequisites
