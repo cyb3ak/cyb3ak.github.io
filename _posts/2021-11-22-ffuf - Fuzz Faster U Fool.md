@@ -2,7 +2,7 @@
 title: ffuf - Fuzz Faster U Fool
 author: cyb3ak
 date: 2021-11-22 14:10:00 +0800
-categories: [Commands, Linux Commands]
+categories: [Commands, Linux Commands, ffuf]
 tags: [ffuf]
 image: "/assets/img/posts/Commands/ffuf_thumb.png" 
 ---
